@@ -1,10 +1,13 @@
-# Spencer's CS202 Class Notes :dizzy: :earth_americas:
+# CS-F202 Computer Science II
+## Class Notes and Homework Repository :dizzy: :earth_americas:
+
 ```
 #include <iostream>
 int main() {
 	std::cout << "Hello traveller, here's a towel for protection. Take care of yourself out there." << std::endl;
 }
 ```
+
 ## Other-Files
 - [Header Notes](https://github.com/2023-Spring-UAF-CS202/notes-sowens23/blob/main/HeaderNotes.md)
 
