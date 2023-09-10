@@ -17,7 +17,7 @@ int main() {
 
 ## Notes, Assignments and Labs
 	| Weekly Notes | Assignments | Labs |
-	| --- | --- | --- | --- |
+	| --- | --- | --- |
 	| [Week-1](#Week-1) |[Homework01](https://github.com/2023-Spring-UAF-CS202/hw01-sowens23) | [Lab00](https://github.com/2023-Spring-UAF-CS202/lab00-sowens23) |
 	| [Week-2](#Week-2) | [Homework02](https://github.com/2023-Spring-UAF-CS202/hw02-sowens23) | [Lab01](https://github.com/2023-Spring-UAF-CS202/lab01-sowens23)|
 	| [Week-3](#Week-3) | [Homework03](https://github.com/2023-Spring-UAF-CS202/hw03-sowens23)| [Lab02](https://github.com/2023-Spring-UAF-CS202/lab02-sowens23) |
